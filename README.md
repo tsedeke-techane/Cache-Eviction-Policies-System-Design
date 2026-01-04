@@ -43,7 +43,7 @@ Caches are critical components of software systems, allowing for quick data acce
 
 1. Clone the repository:
     ```bash
-    git clone git@github.com:chandrakanthrck/CacheEvictor.git
+    github.com/tsedeke-techane/Cache-Eviction-Policies-System-Design.git
     ```
 2. Navigate to the project directory:
     ```bash
